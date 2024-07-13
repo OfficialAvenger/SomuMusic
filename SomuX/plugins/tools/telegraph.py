@@ -1,3 +1,4 @@
+"""
 from telegraph import upload_file
 from pyrogram import filters
 from SomuX import app
@@ -30,3 +31,4 @@ def ul(_, message):
 
         i.edit(f'Yᴏᴜʀ ʟɪɴᴋ sᴜᴄᴄᴇssғᴜʟ Gᴇɴ {url}')
       
+"""
